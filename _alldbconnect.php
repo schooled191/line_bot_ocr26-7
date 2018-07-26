@@ -1,6 +1,6 @@
 <?php
 
-$servername = "202.183.247.123";
+$servername = "root@202.183.247.123";
 $username = "root";
 $password = "092246700";
 $db_name = "botline";
